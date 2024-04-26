@@ -1,0 +1,21 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/HoltwoodOneSC.ttf");
+  font-family: "Holtwood One SC";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/Kameron.ttf");
+  font-family: "Kameron";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/KameronBold.ttf");
+  font-family: "Kameron";
+  font-weight: 700;
+}
